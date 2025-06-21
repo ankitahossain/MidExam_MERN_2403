@@ -198,7 +198,8 @@ const Registration = () => {
             <div className="mt-8">
               <button
                 type="submit"
-                className="py-2.5 px-5 text-sm font-medium tracking-wider rounded-sm cursor-pointer text-white bg-green-400 hover:bg-blue-400 focus:outline-0"
+                className="py-2.5 px-5 text-sm font-medium tracking-wider rounded-sm cursor-pointer text-white bg-blue-8
+                00 hover:bg-black focus:outline-0"
               >
                 Sign up
               </button>
